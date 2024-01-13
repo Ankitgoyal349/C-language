@@ -2,7 +2,7 @@
 keyboard. Write a program to convert and print this distance
 in meters, feet, inches and centimeters. */
 
-// #include<stdio.h>
+#include<stdio.h>
 
 int main(){
 	float dis_in_km, in_m, in_feet, in_inch, in_cm; 

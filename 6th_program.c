@@ -2,7 +2,7 @@
 // here .556 = 5/9 
 // 1`c = (f-32)*5/9
 
-// #include<stdio.h>;
+#include<stdio.h>;
 
 int main(){
 	int fahr;

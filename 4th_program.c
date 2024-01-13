@@ -1,6 +1,6 @@
-// # include<stdio.h>
-
 // program to check eligility for voting 
+
+# include<stdio.h>
 
 int main(){
 	int age;

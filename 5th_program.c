@@ -1,6 +1,6 @@
 // program to calculate aggregate and percentage marks:--
 
-// #include<stdio.h>
+#include<stdio.h>
 int main(){
 
 int phy, che, eng, maths, computer, Aggregate_marks;

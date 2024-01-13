@@ -1,6 +1,6 @@
-// # include <stdio.h>
-
 // area of triangle in c
+
+# include <stdio.h>
 
 int main(){
 	float base, height, area;

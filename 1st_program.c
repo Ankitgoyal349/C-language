@@ -2,7 +2,7 @@
 
 // here  # means preprocessor
 
-// # include<stdio.h>
+# include<stdio.h>
 
 int main(){
 	printf("Hello\nworld\n");
